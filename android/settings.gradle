@@ -1,0 +1,3 @@
+rootProject.name = 'IOTAGoMobileExample'
+
+include ':app'
